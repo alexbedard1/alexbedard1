@@ -1,10 +1,10 @@
 Send(^!c)
 Sleep(500)
-Send(#NUMPADAAD)
+Send(#{NUMPADAAD})
 Sleep(10000)
-Send(+F10)
+Send(+{F10})
 Sleep(500)
-Send(#NUMPADAAD)
+Send(#{NUMPADAAD})
 Sleep(10000)
 
 
