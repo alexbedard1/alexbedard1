@@ -1,0 +1,6 @@
+Send(^!c)
+Sleep(500)
+Send(#NUMPADAAD)
+Sleep(10000)
+Send(#NUMPADAAD)
+Sleep(10000)
