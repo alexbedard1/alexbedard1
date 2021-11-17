@@ -1,13 +1,4 @@
-Send(^!c)
-Sleep(500)
-Send(#{NUMPADAAD})
-Sleep(10000)
-Send(+{F10})
-Sleep(500)
-Send(#{NUMPADAAD})
-Sleep(10000)
-
-
+ShellEx
 Send("^!c")
 Sleep(500)
 Send("#{NUMPADAAD}")
